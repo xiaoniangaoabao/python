@@ -5,3 +5,6 @@ add and commit some code
 
 git remote add origin https://github.com/xiaoniangaoabao/python.git
 添加到github已创建好的远程仓库
+
+git push -u origin master
+推送master到远程仓库origin
