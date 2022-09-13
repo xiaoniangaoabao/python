@@ -8,3 +8,5 @@ git remote add origin https://github.com/xiaoniangaoabao/python.git
 
 git push -u origin master
 推送master到远程仓库origin
+
+222
