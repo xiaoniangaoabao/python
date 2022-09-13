@@ -1,10 +1,10 @@
-git init
-´´½¨´úÂë¿â
+ï»¿git init
+åˆ›å»ºä»£ç åº“
 
 add and commit some code
 
 git remote add origin https://github.com/xiaoniangaoabao/python.git
-Ìí¼Óµ½githubÒÑ´´½¨ºÃµÄÔ¶³Ì²Ö¿â
+æ·»åŠ åˆ°githubå·²åˆ›å»ºå¥½çš„è¿œç¨‹ä»“åº“
 
 git push -u origin master
-ÍÆËÍmasterµ½Ô¶³Ì²Ö¿âorigin
+æ¨é€masteråˆ°è¿œç¨‹ä»“åº“origin
